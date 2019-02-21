@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550611864 source:c:\users\azzam\desktop\a.j\programing\os lab\checking a perfect cube\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
