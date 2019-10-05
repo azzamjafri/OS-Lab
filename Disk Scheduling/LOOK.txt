@@ -1,0 +1,30 @@
+Enter number of values to be entered  10
+Enter values
+Arrival  Track   Sector
+0 45 0
+23 132 6
+25 20 2
+29 23 1
+35 198 7
+45 170 5
+57 180 3
+83 78 4
+88 73 5
+95 150 7
+Arrival   Finish time  Latency
+    0           15.5                    14.5
+    23          48.7                    24.7
+    45          70.5                    20.8
+    57          88.5                    17
+    35          105.3                   15.8
+    95          121.1                   14.8
+    0           148.1                   26
+    25          163.1                   14
+    29          181.4                   17.3
+    88          201.4                   19
+
+Average time= 20.14
+Average latency= 114.36
+
+Process returned 0 (0x0)   execution time  25.342 s
+Press any key to continue.
