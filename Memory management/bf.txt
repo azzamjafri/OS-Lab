@@ -1,0 +1,110 @@
+Enter no. of memory blocks: 10
+Enter sizes of all the memory blocks:
+Block1 : 9500
+Block2 : 7000
+Block3 : 4500
+Block4 : 8500
+Block5 : 3000
+Block6 : 9000
+Block7 : 1000
+Block8 : 5500
+Block9 : 1500
+Block10 : 500
+
+Enter no. of jobs: 19
+Burst   Size :-
+5 5760
+4 4190
+8 3290
+2 2030
+2 2550
+6 6990
+8 8940
+10 740
+7 3930
+6 6890
+5 6580
+8 3820
+9 9140
+10 420
+10 220
+7 7540
+3 3210
+1 1380
+9 9850
+Block no        %Unused
+M1              100%
+M2              100%
+M3              100%
+M4              100%
+M5              100%
+M6              100%
+M7              100%
+M8              100%
+M9              100%
+M10             3.78947%
+
+Waiting Queue Length= 1
+% of Partitions Unused= 90%
+Internal Fragmentation= 360
+External Fragmentation= 40500
+
+
+Waiting Time in Job Queue
+J1 : 0
+J2 : 0
+J3 : 0
+J4 : 0
+J5 : 0
+J6 : 0
+J7 : 0
+J8 : 0
+J9 : 32
+J10 : 25
+J11 : 37
+J12 : 42
+J13 : 28
+J14 : 48
+J15 : 102
+J16 : Not done
+J17 : 0
+J18 : 0
+J19 : 20
+
+Waiting Time in Ready Queue
+J1 : 21
+J2 : 23
+J3 : 25
+J4 : 28
+J5 : 32
+J6 : 37
+J7 : 42
+J8 : 48
+J9 : 47
+J10 : 40
+J11 : 49
+J12 : 52
+J13 : 45
+J14 : 54
+J15 : 9
+J16 : -1
+J17 : 10
+J18 : 20
+J19 : 38
+
+Jobs in each Partition :-
+Memory Block 1 : Job17
+Memory Block 2 : Job18  Job19
+Memory Block 3 : Job1
+Memory Block 4 : Job2
+Memory Block 5 : Job3   Job10
+Memory Block 6 : Job4   Job13
+Memory Block 7 : Job5   Job9
+Memory Block 8 : Job6   Job11
+Memory Block 9 : Job7   Job12
+Memory Block 10 : Job8  Job14   Job15
+
+
+Total jobs executed: 19
+Finish time: 111
+Throughput: 0.171171
