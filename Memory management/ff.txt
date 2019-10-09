@@ -1,0 +1,59 @@
+Enter no. of memory blocks: 10
+Enter sizes of all the memory blocks:
+Block1 : 9500
+Block2 : 7000
+Block3 : 4500
+Block4 : 8500
+Block5 : 3000
+Block6 : 9000
+Block7 : 1000
+Block8 : 5500
+Block9 : 1500
+Block10 : 500
+
+Enter no. of jobs: 19
+Burst   Size :-
+5 5760
+4 4190
+8 3290
+2 2030
+2 2550
+6 6990
+8 8940
+10 740
+7 3930
+6 6890
+5 6580
+8 3820
+9 9140
+10 420
+10 220
+7 7540
+3 3210
+1 1380
+9 9850
+
+Internal Fragmentation= 760
+% utilization 90%
+Waiting Time in Ready Queue
+J1 : 1
+J2 : 3
+J3 : 5
+J4 : 8
+J5 : 22
+J6 : 53
+J7 : 56
+J8 : 65
+J9 : 57
+J10 : 39
+J11 : 40
+J12 : 23
+J13 : 62
+J14 : 48
+J15 : 17
+J16 : -1
+J17 : 18
+J18 : 32
+J19 : 49
+Finish time: 111
+Throughput: 0.171171
